@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center"> 👋 Hi, I’m B B Sheetal  </h1>
+<h3 align="left">Software Development Engineer | Frontend-Developer | JavaScript and React.js - enthusiast</h3>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<!--
-**sheetalbb09/sheetalbb09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  
+  🤝 I’m looking for help on getting a new **Software Engineer/Web Dev roles**
+  
+  🔭 Previously, I have worked on **frontend development, creating responsive and user-friendly web pages**.
+  
+  🌱 I’m currently learning more about backend technologies to become a **full-stack developer.**
+  
+  💬 Ask me about **Software Development**
+  
+  📧 Reach me out: sheetalbb09@gmail.com
+  
 
-Here are some ideas to get you started:
+ </div>
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/b-b-sheetal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-shan-full-stack-developer" height="30" width="40" /></a>
+  <a href="mailto:sheetalbb09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2 align="left">⚒️ Tech-Stack ⚒️</h2>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,mysql,docker,figma,github,bootstrap,vscode" />
+<br />
+</div>
+
+<br/>
+
+<div align="left">
+    <h2 align="left">💻 Skills 💻</h2>
+        <h3>📕Technical: </h3>
+<div>
+  
+  **Web Technologies:** HTML5, CSS3, Javascript
+  
+  **Programming Languages:** Java, JavaScript, Python, C
+  
+  **Frameworks/Libraries:** ReactJS, Bootstrap, Tailwind CSS
+  
+  **Databases Management:**  MySQL, Oracle SQL
+  
+  **Design Tool:** Figma
+  
+  **Tools/Platforms:** GIT,GITHUB, VS Code
+  
+  **Operating Systems:** Windows, Linux
+  
+  **Office Tools:** Microsoft Office Suite
+  
+</div>
+        <h3>📗Soft Skills:</h3>
+        <div>
+          Project Management, Effective Communication, Leadership, Time Management
+        </div>
+
+ </div>
+
+<h2 align="left">📊 Github Stats 📊</h2>
+
+![Chandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandanaPrabhakar&show_icons=true&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanaPrabhakar&show_icons=true&locale=en&layout=compact)
