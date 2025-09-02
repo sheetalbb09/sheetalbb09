@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I’m B B Sheetal  </h1>
 <h3 align="left">Software Development Engineer | Frontend-Developer | JavaScript and React.js - enthusiast</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="380" height="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <div align="left">
   
@@ -27,7 +27,7 @@
 
 <h2 align="left">⚒️ Tech-Stack ⚒️</h2>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,mysql,docker,figma,github,bootstrap,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,mysql,figma,github,bootstrap,vscode" />
 <br />
 </div>
 
@@ -62,7 +62,4 @@
 
  </div>
 
-<h2 align="left">📊 Github Stats 📊</h2>
 
-![Chandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandanaPrabhakar&show_icons=true&locale=en)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanaPrabhakar&show_icons=true&locale=en&layout=compact)
