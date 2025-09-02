@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I’m B B Sheetal  </h1>
 <h3 align="left">Software Development Engineer | Frontend-Developer | JavaScript and React.js - enthusiast</h3>
-<img align="right" alt="Coding" width="380" height="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="Coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <div align="left">
   
